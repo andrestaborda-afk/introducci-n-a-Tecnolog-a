@@ -1,7 +1,6 @@
 # introducci-n-a-Tecnolog-a
+integrantes:
 
-    ##integrantes:
+  -felipe taborda
 
-    -felipe taborda
-
-    ## Primer commit
+Demo
